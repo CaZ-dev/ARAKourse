@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715963894088",
+    "project_id": "hephaestus-69",
+    "storage_bucket": "hephaestus-69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715963894088:android:997ef713eac7786bf44b7d",
+        "android_client_info": {
+          "package_name": "com.example.hephaestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715963894088-p79hnkarodftten0grar60ad28svev9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC6rQH1NUTS_xpUYdHKybqoA3z0a2UOnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715963894088-p79hnkarodftten0grar60ad28svev9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
